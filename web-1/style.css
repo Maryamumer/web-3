@@ -1,0 +1,45 @@
+body{
+    padding: 0 25%;
+}
+#janedoe1{
+    display: flex;
+    justify-content: center ;
+    justify-content: space-around;
+    background-color:lightgrey;
+    height: 80px;
+    width: 672;
+    text-align: center;
+   
+  
+    
+}
+#janedoe1 a {
+    text-decoration: none;
+  padding: 20px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  color: rgb(31, 1, 1);
+  transition: background-color 0.3s ease;
+}
+
+/* .janedoe2{
+    color:black;
+   padding:10 10 10 10;
+   text-decoration: none;
+   text-size-adjust: 10px;
+ 
+} */
+
+.maryam {
+margin-top: 50px;
+
+}
+.maryam img {
+    margin-bottom: 20px; /* Add a margin at the bottom of each image */
+  
+  }
